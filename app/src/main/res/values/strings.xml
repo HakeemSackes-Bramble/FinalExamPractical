@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalExamPractical</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="drawer_open">Drawer_open</string>
+    <string name="drawer_close">Drawer_close</string>
+</resources>
